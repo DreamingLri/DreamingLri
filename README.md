@@ -27,8 +27,6 @@ I'm **DreamingLri**, a student who is into computer science.
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=DreamingLri&show_icons=true&hide_border=true")
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamingLri&layout=compact)
-
 ### 📫 How to reach me?
 
 [![Outlook](https://img.shields.io/badge/dreaminglri@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dreaminglri@outlook.com)
