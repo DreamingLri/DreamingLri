@@ -26,6 +26,7 @@ I'm **DreamingLri**, a student who is into computer science.
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=DreamingLri&show_icons=true&hide_border=true")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamingLri&layout=compact)
 
 ### 📫 How to reach me?
 
